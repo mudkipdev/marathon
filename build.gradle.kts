@@ -18,9 +18,7 @@ repositories {
 
 dependencies {
     implementation("dev.emortal.minestom:game-sdk:884345c")
-
     implementation("net.kyori:adventure-text-minimessage:4.17.0")
-    implementation(kotlin("stdlib-jdk8"))
 }
 
 kotlin {
